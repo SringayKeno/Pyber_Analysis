@@ -10,23 +10,29 @@ We will be taking a look at the differences in ride-sharing data among the diffe
 
 ### Total Rides
 
-<<<<<<< HEAD
+<img width="500" alt="Screenshot" src="https://user-images.githubusercontent.com/102890151/167325642-9809f286-ff7e-46c2-ad1b-d45947f150e6.png">
+
 Total rides among the different city types
 
-=======
->>>>>>> 00587bdce3864b3fa78c31a126d242dafdf0bb58
+<img width="190" alt="total_rides_city_type" src="https://user-images.githubusercontent.com/102890151/167326343-13a755fe-3613-4d46-beae-c33dac9ebb34.png">
+
 
 ### Total Drivers
 
 
 
+<img width="202" alt="total_drivers_city_type" src="https://user-images.githubusercontent.com/102890151/167326322-bc6bb6ac-f3b0-4790-9339-4d90774cafc5.png">
 
 
 ### Total Fares
 
+<img width="177" alt="total_fares_city_type" src="https://user-images.githubusercontent.com/102890151/167326313-6ad4d0d5-9af3-4d08-ae19-b3fe0dc9a2a9.png">
+
+
 ### Average Fare per Ride and Driver
 
-<img width="600" alt="bubble" src="https://user-images.githubusercontent.com/102890151/167323548-dcd92133-09e6-451a-8549-4d24a041a447.png">
+<img width="616" alt="bubble" src="https://user-images.githubusercontent.com/102890151/167327743-bc24036c-3662-4cab-8545-70600b676d5e.png">
+
 
 
 ### Total Fare by City Type
