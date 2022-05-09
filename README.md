@@ -8,12 +8,24 @@ Working as a data anaylyst for Pyber, a Python based ride-sharing app company. M
 
 ### Total Rides
 
+
 ### Total Drivers
+
+
+
+
 
 ### Total Fares
 
 ### Average Fare per Ride and Driver
 
-### Rotal Fare by City Type
+<img width="600" alt="bubble" src="https://user-images.githubusercontent.com/102890151/167323548-dcd92133-09e6-451a-8549-4d24a041a447.png">
+
+
+### Total Fare by City Type
+
+<img width="648" alt="Pyber_fare_summary (1)" src="https://user-images.githubusercontent.com/102890151/167324092-6503d484-2146-4713-9bb7-79f813471ca5.png">
+
+
 
 ## Summary: Three business recommendations to the CEO for addressing any disparities among the city types
