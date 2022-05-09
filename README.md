@@ -2,18 +2,19 @@
 
 ## Overview of the analysis:
 
-Working as a data anaylyst for Pyber, a Python based ride-sharing app company. My assignment was to perform an exploratory analysis on data in some very large csv files.To aid this process, I created several types of visualizations that told a compelling story about the data. I wrote Python scripts using Pandas libraries, Jupyter Notebook, andMatplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. The analysis and visualizations I produced will help Pyber improve access to ride-sharing services and determine affordibility to underserved neighborhoods.
+Working as a data anaylyst for Pyber, a Python based ride-sharing app company. My assignment was to perform an exploratory analysis on data in some very large csv files. To aid this process, I created several types of visualizations that told a compelling story about the data. I wrote Python scripts using Pandas libraries, Jupyter Notebook, andMatplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. The analysis and visualizations I produced will help Pyber improve access to ride-sharing services and determine affordibility to underserved neighborhoods.
 
 ## Results: 
 
-We will be taking a look at the differences in ride-sharing data among the different city types.Those different city types are urban, subrban and rural.
+For results we will be taking a look at the differences in ride-sharing data among the different city types. Those different city types are; urban, suburban and rural.
 
 ### Total Rides
 
-Total rides among the different city types
+Total rides for Pyber’s three different city types varied greatly. Urban rides, where we would expect the most usage, had 1,625 rides.  Rural city type, which had the leat amount of rides had only 125. In image 2 (pie chart) illustrated is the total rides by city type as viewed by percentages. Those 1,625 Urban rides made up nearly 70% of Pyber's ride count.
 
-<img width="650" alt="total_rides" src="https://user-images.githubusercontent.com/102890151/167330602-c515fcbd-dc76-454e-99a5-c539b38d7f73.png">
+<img width="600" alt="total_rides" src="https://user-images.githubusercontent.com/102890151/167330602-c515fcbd-dc76-454e-99a5-c539b38d7f73.png">
 
+image 2
 
 <img width="284" alt="total_rides_city_type" src="https://user-images.githubusercontent.com/102890151/167328346-f81cb82c-775e-4713-a52a-a5d4b223f4b6.png">
 
