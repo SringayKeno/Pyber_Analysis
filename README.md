@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-Working as a data anaylyst for Pyber, a Python based ride-sharing app company. My assignment was to perform an exploratory analysis on data in some very large csv files. To aid this process, I created several types of visualizations that told a compelling story about the data. I wrote Python scripts using Pandas libraries, Jupyter Notebook, andMatplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. The analysis and visualizations I produced will help Pyber improve access to ride-sharing services and determine affordibility to underserved neighborhoods.
+Working as a data anaylyst for Pyber, a Python based ride-sharing app company. My assignment was to perform an exploratory analysis on data in some very large csv files. To aid this process, I created several types of visualizations that told a compelling story about the data. I wrote Python scripts using Pandas libraries, Jupyter Notebook, and Matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. The analysis and visualizations I produced will help Pyber improve access to ride-sharing services and determine affordibility to underserved neighborhoods.
 
 ## Results: 
 
@@ -21,7 +21,7 @@ image 2
 
 ### Total Drivers
 
-Urban city type had the most rides and the most drivers at 2,405 (seen in table below). Urban city type actually had more drivers than total rides (1,625 rides vs 2, 405 drivers). This was the only city type to have more drivers than riders.
+Urban city type had the most rides and the most drivers at 2,405 (seen in table below). Urban city type actually had more drivers than total rides (1,625 rides vs 2,405 drivers). This was the only city type to have more drivers than riders.
 
 <img width="600" alt="total_drivers" src="https://user-images.githubusercontent.com/102890151/167330795-9c5cefa5-4e33-4d45-b390-fa540c98ebda.png">
 
@@ -32,7 +32,7 @@ Total drivers as viewed by percentage (above)
 
 ### Total Fares
 
-Urban city type made just under $40,000 dollars or roughly 62% of total fares. Recall the Urban city type had roughly 68% of total rides. Rural city type made up 6.8% of total fares and had 5.3 % of the total rides. see images below
+Urban city type made just under $40,000 dollars or roughly 62% of total fares. Recall that urban city type had roughly 68% of total rides. Rural city type made up 6.8% of total fares and had 5.3 % of the total rides. see images below
 
 <img width="600" alt="total_fares" src="https://user-images.githubusercontent.com/102890151/167330963-8115b18a-d016-456a-bf33-c9e5f0b742a5.png">
 
@@ -52,14 +52,14 @@ Shown below are the average fare by ride and by driver. Fares in urban city type
 <img width="550" alt="av_fare_city_type" src="https://user-images.githubusercontent.com/102890151/167331638-e509a194-04a7-46ad-abba-31a595c8e403.png">
 
 
-Bubble chart below showing the average fare by city type. As the data reflects we can see in the bubble chart that there are far less drivers (size of bubble) and the average fare in rurla areas is higher than it's counterpart city types.
+Bubble chart below showing the average fare by city type. As the data reflects we can see in the bubble chart that there are far less drivers (size of bubble) and the average fare in rural areas is higher than it's counterpart city types.
 
 <img width="740" alt="download" src="https://user-images.githubusercontent.com/102890151/167328061-bf528b4f-bdd8-4aa7-b6ac-6bb026638045.png">
 
 
 ### Total Fare by City Type
 
-Lastly, looking at total fares by city type we can see that urban city type had the consistently the highest fare total. Rural city type had the steadiest total fare with urban being next.  Both suburban and urban city types had higher total fares in April, than January when data was collected. Noted was a spike for all 3 city types the 3rd week of Feb.
+Lastly, looking at total fares by city type we can see that urban city type had consistently the highest fare total. Rural city type had the steadiest total fare with urban being next. Both suburban and urban city types had higher total fares in April, than January, when data began. Noted was a spike for all three city types the 3rd week of February.
 
 
 <img width="648" alt="Pyber_fare_summary (1)" src="https://user-images.githubusercontent.com/102890151/167328132-9dc34c11-8e03-40d9-9525-610ee09c1280.png">
@@ -69,7 +69,7 @@ Lastly, looking at total fares by city type we can see that urban city type had 
 
 The following recommendations might be considered to address any disparities among the city types. 
 
-Urban city types was the only city type to post more drivers than rides. This might indicate an excess of drivers. Is this just one city with an excess of drivers, several urban cities or is this company wide for urban cities. Further analysis should be done. 
+Urban city types was the only city type to post more drivers than rides. This might indicate an excess of drivers. Is this just one city with an excess of drivers, several urban cities or is this company wide for urban cities? Further analysis should be done. 
 
 Suburban cities make up 17% of Pyber's drivers in suburban areas, but they currently make up 30% of total fares. While the number of drivers in the urban areas is nearly 5 times greater the total number of suburban drivers, the total revenue from the urban cities is only twice of that of suburban city types. As mentioned above, with the excess in urban drivers the possibly of reallocating some urban drivers to suburban areas might be benificial and possibly with that re assignment might be able to bring some of that profiability with them to the suburban areas.
 
